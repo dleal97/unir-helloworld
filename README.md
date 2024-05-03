@@ -1,5 +1,3 @@
-# Repo para EU - DevOps&Cloud - UNIR
+# Caso Practico 1 A
 
-Este repositorio incluye un proyecto sencillo para demostrar los conceptos de pruebas unitarias, pruebas de servicio, uso de Wiremock y pruebas de rendimiento
-El objetivo es que el alumno entienda estos conceptos, por lo que el código y la estructura del proyecto son especialmente sencillos.
-Este proyecto sirve también como fuente de código para el pipeline de Jenkins.
+Este repositorio incluye todos los archivos de configuración necesarios para resolver el caso práctico 1A.
