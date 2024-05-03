@@ -1,3 +1,3 @@
 # UNIR Hello World
 
-Rama específica para desarrollo.
+Este repositorio incluye todos los archivos de configuración necesarios para resolver el primer caso práctico.
