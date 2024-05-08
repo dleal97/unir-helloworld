@@ -6,7 +6,7 @@ pipeline {
             //agent { node 'agent-aux' }
             agent any
             steps {
-                git 'https://github.com/dleal97/unir-helloworld.git', brach:'develop'
+                git 'https://github.com/dleal97/unir-helloworld.git', branch:'develop'
                 stash name: 'code', includes: '**'
                 echo 'Código guardado en el stash.'
                 echo "${env.NODE_NAME}"
